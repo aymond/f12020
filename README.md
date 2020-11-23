@@ -1,6 +1,6 @@
 # F1 2020
 
-Current and Default settings for F1 2020. I found that after getting set up and playing around, I forgot which values worked well for me. 
+Current and Default settings for F1 2020. I found that after getting set up and playing around, I forgot which values worked well for me, and now have them in version control. 
 
 ## InWheel 
 
