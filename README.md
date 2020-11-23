@@ -56,5 +56,76 @@ Keeping at 0 for the best 1:1 input
 
 #### Bahrain
 
+Aero dynamics 
+- Front Wing: 6 
+- Rear Wing: 6
 
-### Monaco
+Transmission 
+- Differential Adjustment On-Throttle: 90%
+- Differential Adjustment Off-Throttle: 75%
+
+Suspension Geometry 
+- Front Camber: -2.70 
+- Rear Camber: -1.20 
+- Front Toe: 0.07 
+- Rear Tow: 0.26
+
+Suspension 
+- front: 7 
+- Rear: 2 
+- Anti-roll front: 10
+- Anti-roll rear: 6
+- Ride Height front: 3
+- Ride Height rear: 3
+
+Brakes 
+- Front: 75% 
+- Rear: 52%
+ 
+Tyres
+- Front Left: 23.0 psi
+- Front RIght:23.4 psi
+- Rear Left: 21.1 psi
+- Rear Right: 21.5 psi
+
+#### Azerbaijan
+
+| Aerodynamics | |
+|-|-|
+|Front Wing | 1 |
+|Rear Wing | 4 |
+
+| Transmission | |
+|-|-|
+|Differential Adjustment Off-Throttle| 50%|
+|Differential Adjustment On-Throttle| 60%|
+
+|Suspension Geometry | |
+|-|-|
+|Front Camber| -2.50 |
+|Rear Camber| -1.00 |
+|Front Toe| 0.05 |
+|Rear Tow| 0.20|
+
+|Suspension | |
+|-|-|
+|front|3 |
+|Rear|4 |
+|Anti-roll front|3|
+|Anti-roll rear|9|
+|Ride Height front|2|
+|Ride Height rear|4|
+
+|Brakes ||
+|-|-|
+|Front| 100% |
+|Rear| 50%|
+
+|Tyres| |
+|-|-|
+|Front Left| 21.8 psi|
+|Front RIght| 21.8 psi|
+|Rear Left| 19.9 psi|
+|Rear Right| 19.9 psi|
+
+#### Monaco
